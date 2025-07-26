@@ -108,11 +108,11 @@
     <nav class="main-menu">
       <img class="logo" src="https://ce5ef1ff17.cbaul-cdnwnd.com/4d3d4d1846514b8f7a21f3605ea4570b/200000153-ad744ad746/2.jpg?ph=ce5ef1ff17" alt="Logo" />
       <ul class="nav-links">
-         <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/P%C3%A1gina%20Web%20PRINCIPAL.html">Inicio</a></li>
-        <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/Problematica.html">Anatomia</a></li>
-        <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/Introducci%C3%B3n.html">Fisiologia</a></li>
-        <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/Resultados.html">Histologia</a></li>
-        <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/Discucion.html">Farmacologia</a></li>
+         <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ">Inicio</a></li>
+        <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia/">Anatomia</a></li>
+        <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Fisiologia/">Fisiologia</a></li>
+        <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Histologia/">Histologia</a></li>
+        <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Farmacologia/">Farmacologia</a></li>
       </ul>
     </nav>
 
